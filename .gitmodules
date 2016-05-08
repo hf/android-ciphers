@@ -1,0 +1,3 @@
+[submodule "bouncycastle"]
+	path = bouncycastle
+	url = https://android.googlesource.com/platform/external/bouncycastle
