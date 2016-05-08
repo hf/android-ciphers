@@ -1,5 +1,7 @@
 # Android Ciphers
 
+[![Build Status](https://travis-ci.org/hf/android-ciphers.svg?branch=master)](https://travis-ci.org/hf/android-ciphers)
+
 This is a simple project that shows, through JUnit tests, how to use some sensible default cryptographic ciphers
 available on the Android platform.
 
